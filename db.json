@@ -7,12 +7,6 @@
       "price": 15.99
     },
     {
-      "id": 2,
-      "name": "ZZ Plant",
-      "image": "./images/zz-plant.jpg",
-      "price": 25.98
-    },
-    {
       "id": 3,
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
@@ -41,6 +35,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Bob",
+      "image": "image.com",
+      "price": 0.05,
+      "id": 8
+    },
+    {
+      "name": "Bob",
+      "image": "image.com",
+      "price": 0.05,
+      "id": 9
     }
   ]
 }
